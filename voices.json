@@ -194,6 +194,19 @@
       "sizeBytes": 4648203,
       "sha256": "ed7fcb2a6f2118a0d6cfd634841fa9dbdcdb6a60830f42a1e599ddd3eeb1fb7c",
       "hasConsonantRepair": true
+    },
+    {
+      "id": "Aisha",
+      "nameAr": "عائشة",
+      "nameEn": "Aisha",
+      "language": "Arabic_fasih",
+      "gender": "female",
+      "version": "1.0",
+      "downloadUrl": "https://github.com/PlanetBlindTech/rhvoice-arabic_voices/releases/download/aisha/Aisha_Android.zip",
+      "sampleUrl": "https://raw.githubusercontent.com/PlanetBlindTech/rhvoice-arabic_voices/main/samples/android/Aisha.mp3",
+      "sizeBytes": 11526862,
+      "sha256": "0aa865455fa4c8c1ceac4546b32e0f98cbc937491469e3fb154da28a08a30606",
+      "hasConsonantRepair": true
     }
   ]
 }
