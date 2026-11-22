@@ -155,6 +155,45 @@
       "sizeBytes": 16104803,
       "sha256": "b2c64ba22a8d95a9d48ef1e6715879e028d4ae385128dbb4742bb8d3bb1f95d9",
       "hasConsonantRepair": true
+    },
+    {
+      "id": "Amjad",
+      "nameAr": "أمجد",
+      "nameEn": "Amjad",
+      "language": "Arabic_fasih",
+      "gender": "male",
+      "version": "1.0",
+      "downloadUrl": "https://github.com/PlanetBlindTech/rhvoice-arabic_voices/releases/download/amjad/Amjad_Android.zip",
+      "sampleUrl": "https://raw.githubusercontent.com/PlanetBlindTech/rhvoice-arabic_voices/main/samples/android/Amjad.mp3",
+      "sizeBytes": 19140404,
+      "sha256": "f1c66cfeae8745a7712620d15dab4e5f28287438b47062c8f3968ba9121d545f",
+      "hasConsonantRepair": true
+    },
+    {
+      "id": "Nabil",
+      "nameAr": "نبيل",
+      "nameEn": "Nabil",
+      "language": "Arabic_fasih",
+      "gender": "male",
+      "version": "1.0",
+      "downloadUrl": "https://github.com/PlanetBlindTech/rhvoice-arabic_voices/releases/download/nabil/Nabil_Android.zip",
+      "sampleUrl": "https://raw.githubusercontent.com/PlanetBlindTech/rhvoice-arabic_voices/main/samples/android/Nabil.mp3",
+      "sizeBytes": 15931514,
+      "sha256": "78d11be39289b9ed5927076dd53091e71c63cfd066faffa21094f7ee207331fa",
+      "hasConsonantRepair": true
+    },
+    {
+      "id": "Shahrazad",
+      "nameAr": "شهرزاد",
+      "nameEn": "Shahrazad",
+      "language": "Arabic_fasih",
+      "gender": "female",
+      "version": "1.0",
+      "downloadUrl": "https://github.com/PlanetBlindTech/rhvoice-arabic_voices/releases/download/shahrazad/Shahrazad_Android.zip",
+      "sampleUrl": "https://raw.githubusercontent.com/PlanetBlindTech/rhvoice-arabic_voices/main/samples/android/Shahrazad.mp3",
+      "sizeBytes": 4648203,
+      "sha256": "ed7fcb2a6f2118a0d6cfd634841fa9dbdcdb6a60830f42a1e599ddd3eeb1fb7c",
+      "hasConsonantRepair": true
     }
   ]
 }
