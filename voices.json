@@ -207,6 +207,45 @@
       "sizeBytes": 11526862,
       "sha256": "0aa865455fa4c8c1ceac4546b32e0f98cbc937491469e3fb154da28a08a30606",
       "hasConsonantRepair": true
+    },
+    {
+      "id": "Bassel",
+      "nameAr": "باسل",
+      "nameEn": "Bassel",
+      "language": "Arabic_fasih",
+      "gender": "male",
+      "version": "1.0",
+      "downloadUrl": "https://github.com/PlanetBlindTech/rhvoice-arabic_voices/releases/download/bassel/Bassel_Android.zip",
+      "sampleUrl": "https://raw.githubusercontent.com/PlanetBlindTech/rhvoice-arabic_voices/main/samples/android/Bassel.mp3",
+      "sizeBytes": 16673816,
+      "sha256": "5c81c99307c06e42eb5b6e4346e38c83b5a15f2c58e2b3be85232aed08dc1591",
+      "hasConsonantRepair": true
+    },
+    {
+      "id": "Hadi",
+      "nameAr": "هادي",
+      "nameEn": "Hadi",
+      "language": "Arabic_fasih",
+      "gender": "male",
+      "version": "1.0",
+      "downloadUrl": "https://github.com/PlanetBlindTech/rhvoice-arabic_voices/releases/download/hadi/Hadi_Android.zip",
+      "sampleUrl": "https://raw.githubusercontent.com/PlanetBlindTech/rhvoice-arabic_voices/main/samples/android/Hadi.mp3",
+      "sizeBytes": 2298605,
+      "sha256": "ea97d196a1d42db8ae9a311160ef70d44291c722e2e560578a541529e815f779",
+      "hasConsonantRepair": true
+    },
+    {
+      "id": "Rana",
+      "nameAr": "رنا",
+      "nameEn": "Rana",
+      "language": "Arabic_fasih",
+      "gender": "female",
+      "version": "1.0",
+      "downloadUrl": "https://github.com/PlanetBlindTech/rhvoice-arabic_voices/releases/download/rana/Rana_Android.zip",
+      "sampleUrl": "https://raw.githubusercontent.com/PlanetBlindTech/rhvoice-arabic_voices/main/samples/android/Rana.mp3",
+      "sizeBytes": 13045092,
+      "sha256": "9eeb57013f019cb0a644743c26ae81325be08b8304004546039829ed8c9f5294",
+      "hasConsonantRepair": true
     }
   ]
 }
